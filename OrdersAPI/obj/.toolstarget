@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <DockerfileFile>d:\nagp\2nd msa kubernatives\kubernatessol\ordersapi\dockerfile</DockerfileFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <ToolsTarget Include="ContainerBuild" />
+  </ItemGroup>
+</Project>
